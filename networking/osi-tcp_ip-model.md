@@ -25,8 +25,10 @@ It has responsible like a bridge between network and physical layer. It ensures 
 
 I provides transfering between different networks using IP addressing and routing. If the two devices communicating are on the same network, then the network layer is unnecessary.
 
-### 4. Session Layer
+### 4. Transport Layer
 
 It divides data into segments and provides transfering them safely end-to-end. It uses Transmission Control Protocol (TCP) or User Data Protocol (UDP). In shortly, We have one line on the network but different program used same network. It ensures that data is used which program using port.
 
-![transport-layer](https://drive.google.com/file/d/1Wn8YHDuNgnDXXD1Jz5OWamasPWAL1Xb2/view?usp=sharing)
+![transport-layer](https://drive.google.com/uc?export=view&id=1Wn8YHDuNgnDXXD1Jz5OWamasPWAL1Xb2)
+
+![transport-layer](https://drive.google.com/uc?export=view&id=1Wn8YHDuNgnDXXD1Jz5OWamasPWAL1Xb2)
