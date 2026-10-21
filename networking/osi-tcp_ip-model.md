@@ -7,19 +7,19 @@ OSI is a referance model that determine communication rules between systems on t
 
 The OSI Model can be seen as a universal language for computer networking. It is based on the concept of splitting up a communication system into seven abstract layers, each one stacked upon the last.
 
-![osi-model](https://drive.google.com/file/d/1Rzja3YWcCJY36Zb9N9D5XzH8kBqL0ehk/view?usp=sharing)
+![osi-model](https://drive.google.com/uc?export=view&id=1Rzja3YWcCJY36Zb9N9D5XzH8kBqL0ehk)
 
 ### 1. Physical Layer
 
 It includes physical components such as cables, hubs, signals etc. I converts data into physical environment.
 
-![physical layer](https://drive.google.com/file/d/1l2ViKkPCvtQBrmvz35aTTEnJv3ILlawP/view?usp=sharing)
+![physical-layer](https://drive.google.com/uc?export=view&id=1l2ViKkPCvtQBrmvz35aTTEnJv3ILlawP)
 
 ### 2. Data Link Layer
 
 It has responsible like a bridge between network and physical layer. It ensures that data is reached right system using mac address.
 
-![data-link-layer](https://drive.google.com/file/d/1qQMOBbmDKCzaFn8jHlKxxBs2Mt8PUsDH/view?usp=sharing)
+![data-link-layer](https://drive.google.com/uc?export=view&id=1qQMOBbmDKCzaFn8jHlKxxBs2Mt8PUsDH)
 
 ### 3. Network Layer
 
